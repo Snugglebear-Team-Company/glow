@@ -225,7 +225,9 @@ preserveNewLines: false
 
 **Summary:** This update addresses recent changes across the project.
 
-%NEW_RELEASE_NOTES%
+### Additional Changes
+
+- Updated documentation to reference GitHub Releases as the authoritative source for published release notes.
 
 ## Contributing
 
