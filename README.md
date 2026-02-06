@@ -215,19 +215,19 @@ showLineNumbers: false
 preserveNewLines: false
 ```
 
-## Contributing
-
 ## Updates
 
-Title: Version TBD updates
+**Title:** Unreleased updates
 
-Date: 2026-02-06
+**Date:** 2026-02-06
 
-Version: TBD
+**Version:** Unreleased
 
-Summary: This update addresses recent changes across the project.
+**Summary:** This update addresses recent changes across the project.
 
 %NEW_RELEASE_NOTES%
+
+## Contributing
 
 See [contributing][contribute].
 
