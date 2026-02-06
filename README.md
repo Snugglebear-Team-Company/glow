@@ -217,6 +217,18 @@ preserveNewLines: false
 
 ## Contributing
 
+## Updates
+
+Title: Version TBD updates
+
+Date: 2026-02-06
+
+Version: TBD
+
+Summary: This update addresses recent changes across the project.
+
+%NEW_RELEASE_NOTES%
+
 See [contributing][contribute].
 
 [contribute]: https://github.com/charmbracelet/glow/contribute
