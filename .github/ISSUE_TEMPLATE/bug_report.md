@@ -10,8 +10,6 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-%NEW_RELEASE_NOTES%
-
 **Setup**
 Please complete the following information along with version numbers, if applicable.
  - OS [e.g. Ubuntu, macOS]
