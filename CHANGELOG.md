@@ -4,7 +4,15 @@ title: Changelog
 
 # Changelog
 
-## 2026-02-25
+## Unreleased
+
+**Title:** Unreleased — `instant_karma.flprj` commentary update
+
+**Date:** 2026-02-25
+
+**Version:** Unreleased
+
+**Summary:** This update covered a documentation-oriented change to `instant_karma.flprj` focused on readability.
 
 ### Additional Changes
 
