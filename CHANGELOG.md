@@ -1,11 +1,14 @@
 # Changelog
 
-## v2.x.x 		6-02-25
+## v2.0.0 - Project file formatting
+
+**Date:** 2026-02-25  
+**Version:** v2.0.0
 
 ### Summary
 
-This update addresses documentation-adjacent project metadata formatting.
+This update addresses formatting changes in `instant_karma.flprj`.
 
 ### Additional Changes
 
-- Updated a project file to improve readability by expanding included commentary and normalizing whitespace.
+- Updated the `instant_karma.flprj` project file by expanding embedded commentary and normalizing whitespace.
