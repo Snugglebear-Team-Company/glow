@@ -6,13 +6,13 @@ title: Changelog
 
 ## Unreleased
 
-**Title:** Unreleased — `instant_karma.flprj` commentary update
+**Title:** Unreleased — `instant_karma.flprj` readability update
 
 **Date:** 2026-02-25
 
 **Version:** Unreleased
 
-**Summary:** This update covered a documentation-oriented change to `instant_karma.flprj` focused on readability.
+**Summary:** This update addressed a readability refinement in `instant_karma.flprj`.
 
 ### Additional Changes
 
