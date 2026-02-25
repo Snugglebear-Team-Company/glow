@@ -13,23 +13,28 @@ This release includes the updates listed below.
 
 ### New Features
 
-```json
-{
-  "Additional Changes": [
-    "The project file was updated to improve the clarity and readability of the included commentary text, including spacing adjustments."
-  ]
-}
-
-```
+No changes.
 
 ### Breaking Changes
 
+No changes.
+
 ### Bug Fixes
+
+No changes.
 
 ### Performance
 
+No changes.
+
 ### Security
+
+No changes.
 
 ### Deprecations
 
+No changes.
+
 ### Additional Changes
+
+- Updated `instant_karma.flprj` to improve the clarity and readability of the included commentary text.
