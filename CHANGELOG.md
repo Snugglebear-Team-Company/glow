@@ -1,18 +1,11 @@
 # Changelog
 
-## 2026-02-25
+## v2.x.x 		6-02-25
 
 ### Summary
 
-This update includes the changes listed below.
+This update addresses documentation-adjacent project metadata formatting.
 
-### Notes
+### Additional Changes
 
-```json
-{
-  "Additional Changes": [
-    "Updated the `instant_karma.flprj` project file to improve readability by expanding the included commentary and normalizing whitespace. The `instant_karma.flprj` edits added additional John Lennon commentary lines and adjusted line spacing/formatting for consistent layout."
-  ]
-}
-
-```
+- Updated a project file to improve readability by expanding included commentary and normalizing whitespace.
