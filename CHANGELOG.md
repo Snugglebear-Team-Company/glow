@@ -16,7 +16,7 @@ This release includes the updates listed below.
 ```json
 {
   "Additional Changes": [
-    "The project file was updated to improve the clarity and readability of the included commentary text, including spacing adjustments. Specifically, additional John Lennon commentary lines were added and formatting/whitespace was adjusted in `instant_karma.flprj` to keep the content consistently structured."
+    "The project file was updated to improve the clarity and readability of the included commentary text, including spacing adjustments."
   ]
 }
 
