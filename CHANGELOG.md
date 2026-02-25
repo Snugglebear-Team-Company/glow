@@ -4,11 +4,8 @@ title: Changelog
 
 # Changelog
 
-```json
-{
-  "Additional Changes": [
-    "Updated the Instant Karma project file to include additional written commentary and to improve readability."
-  ]
-}
+## 2026-02-25
 
-```
+### Additional Changes
+
+- Updated the `instant_karma.flprj` project file to include additional written commentary and improve readability.
