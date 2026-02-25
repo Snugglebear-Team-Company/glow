@@ -1,9 +1,6 @@
 # Changelog
 
-## v2.0.0 - Project file formatting
-
-**Date:** 2026-02-25  
-**Version:** v2.0.0
+## v2.0.0 (2026-02-25)
 
 ### Summary
 
