@@ -1,3 +1,4 @@
+🍣🍣 Congratulations on a job well done! 🍣🍣
 # Release Notes 🍣🍣
 🍣🍣
 ## v2.1.0 🍣🍣
