@@ -7,13 +7,6 @@
 
 **Summary:** This release includes the updates listed below.
 
-### Notes (raw)
+### Additional Changes
 
-```json
-{
-  "Additional Changes": [
-    "Updated the `instant_karma.flprj` project file to include additional John Lennon-related comment lines and to improve readability. Specifically, the change adds more commentary/opinionated comment lines and adjusts spacing/formatting within `instant_karma.flprj` to keep the file’s layout consistent."
-  ]
-}
-
-```
+- Updated the `instant_karma.flprj` project file to include additional John Lennon-related comment lines and to improve readability.
