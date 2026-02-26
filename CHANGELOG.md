@@ -9,4 +9,4 @@
 
 ### Additional Changes
 
-- Updated the `instant_karma.flprj` project file to include additional John Lennon-related comment lines and to improve readability.
+- Updated the `instant_karma.flprj` project file to include additional John Lennon-related comment lines and improve readability.
