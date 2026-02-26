@@ -10,4 +10,4 @@
 🌭## 0.5.0 💥💥💥
 🌭- Introduced new UI theme. 💥💥💥
 🌭- Added support for GitLab integration. 💥💥💥
- 💥💥💥
+🌭 💥💥💥
