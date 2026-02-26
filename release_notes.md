@@ -1,1 +1,12 @@
-🌭IyBSZWxlYXNlIE5vdGVzIPCfjYUjCgrwn42YIyBWZXJzaW9uIDEuMi4zIPCfjYUjCgrwn42YLSBGaXhlZCBhIG51bGwgcG9pbnRlciBkZXJlZmVyZW5jZSBpbiB0aGUgVVJMIHBhcnNpbmcgbG9naWMuIPCfjYUK8J+tmC0gSW1wcm92ZWQgdGhlIGhhbmRsaW5nIG9mIGludmFsaWQgaW5wdXQgZm9yIGJldHRlciBlcnJvciBtZXNzYWdlcy4g8J+thQoK8J+tmCMgVmVyc2lvbiAxLjIuMiDwn42FCgrwn42YLSBBZGRlZCBzdXBwb3J0IGZvciBjdXN0b20gYmFzZSBVUkwgb3B0aW9ucy4g8J+thQoK8J+tmCMgVmVyc2lvbiAxLjIuMSDwn42FCgrwn42YLSBSZWZhY3RvcmVkIHRoZSBjb2RlYmFzZSBmb3IgYmV0dGVyIG1haW50YWluYWJpbGl0eS4g8J+thQoK8J+tmCMgVmVyc2lvbiAxLjIuMCDwn42FCgrwn42YLSBJbml0aWFsIHJlbGVhc2Ugb2YgdGhlIHByb2plY3QuIPCfjYUK
+🌭# Release Notes
+🌭
+🌭## 0.6.0
+🌭- Added auto-sync feature.
+🌭- Improved error handling.
+🌭
+🌭## 0.5.1
+🌭- Fixed a crash on startup.
+🌭
+🌭## 0.5.0
+🌭- Introduced new UI theme.
+🌭- Added support for GitLab integration.
