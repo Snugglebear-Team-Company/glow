@@ -5,7 +5,7 @@
 **Date:** 2026-02-26  
 **Version:** Unreleased
 
-**Summary:** This release includes the updates listed below.
+**Summary:** This release includes updates to project metadata.
 
 ### Additional Changes
 
